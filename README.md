@@ -1,7 +1,7 @@
 # Arabic-language-for-Q2A-
 This is Arabic translation updates for Question2Answer.
 
-Installation
+Installation:
 
 1. Clone or download this repository.
 2. Copy the directory ar into qa_lang directory.
